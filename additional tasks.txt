@@ -1,0 +1,9 @@
+The given system uses a temperature and ultrasonic sensor. But it can be improved on by adding the
+follwoing in case of a fighter submarines:
+
+1) Temperature Sensor: Sensor like this is used to measure and regulate temperature in a submarine for the
+occupants.
+
+2) Ultrasonic Sensor: This is used to map the surroundings for enemies or other obstacles.
+
+3) Pressure Module: With this the submarine can warn us if it goes too deep. Which may harm the vehicle.
